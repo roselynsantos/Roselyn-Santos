@@ -1,4 +1,4 @@
-# TicTacToe Console-base Java
+# Simple Console-base TICTACTOE
 FINAL REQUIREMENTS IN COMPUTER PROGRAMMING 1
 
 Created by: Roselyn Santos
